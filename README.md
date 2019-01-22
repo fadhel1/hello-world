@@ -1,2 +1,2 @@
 # hello-world
-contrôle de version 
+contrôle de version et des classes
